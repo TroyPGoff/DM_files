@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/TroyPGoff/DM_files/blob/master/ThighT8.txt?raw=true",
+      "metadataPath": "https://github.com/TroyPGoff/DM_files/blob/master/ThighT9.txt?raw=true"
+    }
+  ]
+}
